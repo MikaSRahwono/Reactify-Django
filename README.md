@@ -20,8 +20,8 @@ $ cd reactifydjango
 $ git clone https://github.com/codingforentrepreneurs/Reactify-Django .
 $ git reset bc78f49e5f3fe1992b99afb85782b6281bf981a1 --hard
 $ git remote remove origin
-$ virtualenv -p python3 .
-$ source bin/activate
+$ python -m venv .
+$ Scripts\activate.bat
 (reactifydjango) $ cd src
 (reactifydjango) $ pip install -r requirements.txt
 (reactifydjango) $ cd reactify-ui
