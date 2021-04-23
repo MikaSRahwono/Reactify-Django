@@ -27,6 +27,11 @@ $ Scripts\activate.bat //buat activate virtual env
 (reactifydjango) $ cd reactify-ui
 (reactifydjango) $ npm install
 ```
+to start server
+```
+(reactifydjango) $ python manage.py runserver
+```
+
 
 ### Sections
 
