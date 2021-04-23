@@ -28,6 +28,7 @@ $ Scripts\activate.bat //buat activate virtual env
 (reactifydjango) $ npm install
 ```
 to start server
+cd to src
 ```
 (reactifydjango) $ python manage.py runserver
 ```
